@@ -18,6 +18,8 @@ const Herosection = () => {
     return () => clearInterval(interval);
   }, []);
 
+   console.log('Hello');
+
   return (
     <div
       className="relative w-full h-screen bg-cover bg-center"
