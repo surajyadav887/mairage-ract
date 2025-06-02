@@ -1,0 +1,2 @@
+navbar =  home,about us, services,contact us,book now
+hero section = Image le lena 
